@@ -1,4 +1,4 @@
-![Lover of Coding and also for JavaScript]![](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/461924583_1983941045378337_4783467378261403016_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFMNLR8jcyutPCozEPPA6e0SqaWO8Udz9pKppY7xR3P2gdlB3Xg-5UI9kILw9DgotO0Uy0EfGBPCKyfoFa2tK56&_nc_ohc=-vadNcoBeMAQ7kNvgHKu0Bb&_nc_ht=scontent.fdac24-3.fna&_nc_gid=AJAMPB7wp4EWIW7hTjFst7j&oh=00_AYDRvQo3-RE7m7GtE0EjQeg8Nm4yDYNgsWykPum2oLhI_w&oe=6703F51A)
+![Lover of Coding and also for JavaScript]![]![](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/462000254_1983949838710791_6817243344403110239_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEZwWCE6ZTyiziHf3YqZOEIzrMeTVz4zzbOsx5NXPjPNhV8jqsHvJdUeGsTbxPSYJ6LeJ2jMLvXvkQfJE2wd-9n&_nc_ohc=1UtJ38a6tLEQ7kNvgE7cSTh&_nc_ht=scontent.fdac24-4.fna&_nc_gid=ANdmtx6nkTeOwY05XQz-SEp&oh=00_AYCgl_ekSiwvuAP_PpEOdf4-AL1NEzYJX8OH3Kz4R-SHnA&oe=6703FCF0)
 
 ### Hi there 👋, I'm Abu Bakar Siddique
 #### Lover of Coding and also for JavaScript
@@ -10,7 +10,7 @@ Skills: REACT JS | Next JS | Node JS |  MongoDB | Express JS | Sass | Bootstrap5
 - 🔭 I’m currently working on Fiverr, Upwork 
 - 💬 Ask me about Web problems, Scope, Requirement anything you want related to Web development or Software. 
 
-
+#### Where you find me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SiddiqueAhmed1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ab.siddique.73157)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/siddique_ahmed21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siddique_ahmed1)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddiqueAhmed1)](https://github.com/anuraghazra/github-readme-stats)
