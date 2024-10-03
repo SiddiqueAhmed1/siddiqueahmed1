@@ -71,7 +71,7 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 - 🔭 I’m currently working on Fiverr, Upwork 
 - 💬 Ask me about Web problems, Scope, Requirement anything you want related to Web development or Software.
 
-- 
+ --
 
 
 ## 🌟 My Most Used Languages
@@ -108,7 +108,7 @@ Feel free to reach out through any of the platforms below!
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px 15px;"/>
     </a>
 </div>
-
+--
 
 
 
