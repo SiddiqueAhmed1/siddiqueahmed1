@@ -1,4 +1,4 @@
-## 🌟 My Most Used Tools
+## 🛠 My Most Used Tools
 
 
 
@@ -65,6 +65,8 @@
 
 I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 years of experience in the field of web design and development. My expertise spans across front-end technologies like React.js and Next.js, as well as back-end systems built with Node.js and Express.js, all integrated seamlessly with MongoDB. In addition to my core stack, I bring a strong focus on clean, modular design using SASS, ensuring that my projects are both visually appealing and maintainable. I'm constantly striving to improve my craft by embracing new challenges and technologies, driven by a love for problem-solving and creating impactful digital experiences. Whether working independently or as part of a team, I am committed to delivering high-quality, scalable solutions.
 
+ --
+ 
 
 
 
@@ -81,15 +83,15 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 -  ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat&logo=sass&logoColor=white) - 15%
 -  ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3&logoColor=white) - 5%
 
+--
 
 
 
 
----
 
 ## 🌐 Connect with Me
 
-Feel free to reach out through any of the platforms below!
+
 
 <div style="text-align: center;">
     <a href="https://github.com/MdAbuBakarSiddique" target="_blank">
@@ -109,6 +111,8 @@ Feel free to reach out through any of the platforms below!
     </a>
 </div>
 --
+
+
 
 
 
