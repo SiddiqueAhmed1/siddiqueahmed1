@@ -1,4 +1,5 @@
-![Lover of Coding and also for JavaScript](https://pbs.twimg.com/profile_banners/1669648802981224448/1727505571/600x200)
+![Lover of Coding and also for JavaScript]![](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/461924583_1983941045378337_4783467378261403016_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFMNLR8jcyutPCozEPPA6e0SqaWO8Udz9pKppY7xR3P2gdlB3Xg-5UI9kILw9DgotO0Uy0EfGBPCKyfoFa2tK56&_nc_ohc=-vadNcoBeMAQ7kNvgHKu0Bb&_nc_ht=scontent.fdac24-3.fna&_nc_gid=AJAMPB7wp4EWIW7hTjFst7j&oh=00_AYDRvQo3-RE7m7GtE0EjQeg8Nm4yDYNgsWykPum2oLhI_w&oe=6703F51A)
+
 ### Hi there 👋, I'm Abu Bakar Siddique
 #### Lover of Coding and also for JavaScript
 
