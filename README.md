@@ -1,9 +1,12 @@
-## 🌟 Tools I Use
+## 🌟 Tools I use
 
 Here are my most frequently used programming languages and libraries:
 
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+</a>
+<a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </a>
 <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -13,6 +16,9 @@ Here are my most frequently used programming languages and libraries:
 </a>
 <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</a>
+<a href="https://github.com/expressjs/multer" target="_blank">
+    <img src="https://img.shields.io/badge/-Multer.js-ffb700?style=for-the-badge&logo=express&logoColor=white" alt="Multer.js"/>
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -30,10 +36,7 @@ Here are my most frequently used programming languages and libraries:
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </a>
 <a href="https://nodemailer.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nodemailer-EA8C2D?style=for-the-badge&logo=npm&logoColor=white" alt="Nodemailer"/>
-</a>
-<a href="https://github.com/expressjs/multer" target="_blank">
-    <img src="https://img.shields.io/badge/-Multer.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Multer.js"/>
+    <img src="https://img.shields.io/badge/-Nodemailer-4C4C4C?style=for-the-badge&logo=npm&logoColor=white" alt="Nodemailer"/>
 </a>
 <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
@@ -43,9 +46,6 @@ Here are my most frequently used programming languages and libraries:
 </a>
 <a href="https://sweetalert.js.org/" target="_blank">
     <img src="https://img.shields.io/badge/-SweetAlert-FFB0B0?style=for-the-badge&logo=sweetalert&logoColor=black" alt="SweetAlert"/>
-</a>
-<a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </a>
 
 
@@ -80,10 +80,21 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 
 Feel free to reach out through any of the platforms below!
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/MdAbuBakarSiddique)
-[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_USERNAME)
-[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
+<a href="https://github.com/MdAbuBakarSiddique" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 
 
