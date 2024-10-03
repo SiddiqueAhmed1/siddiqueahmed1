@@ -2,57 +2,56 @@
 
 Here are my most frequently used programming languages and libraries:
 
-<a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-</a>
-<a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</a>
-<a href="https://github.com/expressjs/multer" target="_blank">
-    <img src="https://img.shields.io/badge/-Multer.js-ffb700?style=for-the-badge&logo=express&logoColor=white" alt="Multer.js"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</a>
-<a href="https://www.w3.org/TR/html52/" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</a>
-<a href="https://nodemailer.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nodemailer-4C4C4C?style=for-the-badge&logo=npm&logoColor=white" alt="Nodemailer"/>
-</a>
-<a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-</a>
-<a href="https://yarnpkg.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
-</a>
-<a href="https://sweetalert.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-SweetAlert-FFB0B0?style=for-the-badge&logo=sweetalert&logoColor=black" alt="SweetAlert"/>
-</a>
+<div style="text-align: center;">
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React.js" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://redux.js.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://github.com/expressjs/multer" target="_blank">
+        <img src="https://img.shields.io/badge/-Multer-ffb700?style=for-the-badge&logo=express&logoColor=white" alt="Multer.js" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://www.w3.org/TR/html52/" target="_blank">
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://sass-lang.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://nodemailer.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Nodemailer-4C4C4C?style=for-the-badge&logo=npm&logoColor=white" alt="Nodemailer" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://www.npmjs.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://yarnpkg.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://sweetalert.js.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-SweetAlert-FFB0B0?style=for-the-badge&logo=sweetalert&logoColor=black" alt="SweetAlert" style="margin: 0 10px 15px;"/>
+    </a>
+</div>
+ --
 
----
 
-
-
----
 
 
 
@@ -94,21 +93,23 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 
 Feel free to reach out through any of the platforms below!
 
-<a href="https://github.com/MdAbuBakarSiddique" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div style="text-align: center;">
+    <a href="https://github.com/MdAbuBakarSiddique" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 0 10px 15px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px 15px;"/>
+    </a>
+</div>
 
 
 
