@@ -2,7 +2,7 @@
 
 Here are my most frequently used programming languages and libraries:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
     <div style="border-radius: 50%; background-color: #61dafb; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
@@ -124,10 +124,35 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 
 Feel free to reach out through any of the platforms below!
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: center;">
 
 <a href="https://github.com/MdAbuBakarSiddique" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #333333; padding: 15px; width: 60px; height: 60px; display: flex
+    <div style="border-radius: 50%; background-color: #333333; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" width="50px"/>
+    </div>
+</a>
+<a href="https://www.facebook.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #3B5998; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=facebook&logoColor=white" alt="Facebook" width="50px"/>
+    </div>
+</a>
+<a href="https://www.instagram.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #E1306C; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="50px"/>
+    </div>
+</a>
+<a href="https://twitter.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #1DA1F2; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="50px"/>
+    </div>
+</a>
+<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #0A66C2; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="50px"/>
+    </div>
+</a>
+
+</div>
 
 
 
