@@ -1,52 +1,91 @@
-## 🌟 Tools I use
+## 🌟 My Most Used Languages
 
 Here are my most frequently used programming languages and libraries:
 
-<a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+<a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #61dafb; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black" alt="React" width="40px"/>
+    </div>
 </a>
-<a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #764ABC; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" width="40px"/>
+    </div>
 </a>
-<a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #339933; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" alt="Node" width="40px"/>
+    </div>
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #47A248; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="40px"/>
+    </div>
 </a>
-<a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #000000; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" width="40px"/>
+    </div>
 </a>
-<a href="https://github.com/expressjs/multer" target="_blank">
-    <img src="https://img.shields.io/badge/-Multer.js-ffb700?style=for-the-badge&logo=express&logoColor=white" alt="Multer.js"/>
+<a href="https://github.com/expressjs/multer" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #ffb700; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Multer-ffb700?style=flat&logo=express&logoColor=white" alt="Multer" width="40px"/>
+    </div>
 </a>
-<a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #563D7C; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="40px"/>
+    </div>
 </a>
-<a href="https://www.w3.org/TR/html52/" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<a href="https://www.w3.org/TR/html52/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #E34F26; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="40px"/>
+    </div>
 </a>
-<a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+<a href="https://sass-lang.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #CC6699; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS" width="40px"/>
+    </div>
 </a>
-<a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<a href="https://www.javascript.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #F7DF1E; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="40px"/>
+    </div>
 </a>
-<a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #000000; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Next-000000?style=flat&logo=next.js&logoColor=white" alt="Next" width="40px"/>
+    </div>
 </a>
-<a href="https://nodemailer.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nodemailer-4C4C4C?style=for-the-badge&logo=npm&logoColor=white" alt="Nodemailer"/>
+<a href="https://nodemailer.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #4C4C4C; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Nodemailer-4C4C4C?style=flat&logo=npm&logoColor=white" alt="Nodemailer" width="40px"/>
+    </div>
 </a>
-<a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #CB3837; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" width="40px"/>
+    </div>
 </a>
-<a href="https://yarnpkg.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+<a href="https://yarnpkg.com/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #2C8EBB; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn" width="40px"/>
+    </div>
 </a>
-<a href="https://sweetalert.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-SweetAlert-FFB0B0?style=for-the-badge&logo=sweetalert&logoColor=black" alt="SweetAlert"/>
+<a href="https://sweetalert.js.org/" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #FFB0B0; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-SweetAlert-FFB0B0?style=flat&logo=sweetalert&logoColor=black" alt="SweetAlert" width="40px"/>
+    </div>
 </a>
+
+</div>
+
+---
+
+
+
 
 
 
@@ -57,10 +96,15 @@ Here are my most frequently used programming languages and libraries:
 
 I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 years of experience in the field of web design and development. My expertise spans across front-end technologies like React.js and Next.js, as well as back-end systems built with Node.js and Express.js, all integrated seamlessly with MongoDB. In addition to my core stack, I bring a strong focus on clean, modular design using SASS, ensuring that my projects are both visually appealing and maintainable. I'm constantly striving to improve my craft by embracing new challenges and technologies, driven by a love for problem-solving and creating impactful digital experiences. Whether working independently or as part of a team, I am committed to delivering high-quality, scalable solutions.
 
+
+
 ### Skills: REACT JS | Next JS | Node JS |  MongoDB | Express JS | Sass | Bootstrap5 | Git | Github  
 
 - 🔭 I’m currently working on Fiverr, Upwork 
-- 💬 Ask me about Web problems, Scope, Requirement anything you want related to Web development or Software. 
+- 💬 Ask me about Web problems, Scope, Requirement anything you want related to Web development or Software.
+
+- 
+
 
 ## 🌟 My Most Used Languages
 
@@ -80,21 +124,10 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 
 Feel free to reach out through any of the platforms below!
 
-<a href="https://github.com/MdAbuBakarSiddique" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div style="display: flex; gap: 10px; justify-content: center;">
+
+<a href="https://github.com/MdAbuBakarSiddique" target="_blank" style="text-decoration: none;">
+    <div style="border-radius: 50%; background-color: #333333; padding: 15px; width: 60px; height: 60px; display: flex
 
 
 
