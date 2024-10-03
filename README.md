@@ -10,39 +10,26 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 - 🔭 I’m currently working on Fiverr, Upwork 
 - 💬 Ask me about Web problems, Scope, Requirement anything you want related to Web development or Software. 
 
-#### Where you find me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SiddiqueAhmed1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ab.siddique.73157)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/siddique_ahmed21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siddique_ahmed1)  
-
 ## 🌟 My Most Used Languages
 
-I love working with these programming languages:
 
-<table>
-  <tr>
-    <th style="text-align: left;">Language</th>
-    <th style="text-align: right;">Percentage</th>
-  </tr>
-  <tr>
-    <td style="color: #f7df1e;">JavaScript</td>
-    <td style="text-align: right;">40%</td>
-  </tr>
-  <tr>
-    <td style="color: #61dafb;">JSX</td>
-    <td style="text-align: right;">40%</td>
-  </tr>
-  <tr>
-    <td style="color: #cc6699;">SCSS</td>
-    <td style="text-align: right;">15%</td>
-  </tr>
-  <tr>
-    <td style="color: #264de4;">CSS</td>
-    <td style="text-align: right;">5%</td>
-  </tr>
-</table>
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) - 40%
+- **JSX** ![JSX](https://img.shields.io/badge/-JSX-61dafb?style=flat&logo=react&logoColor=white) - 40%
+- **SCSS** ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat&logo=sass&logoColor=white) - 15%
+- **CSS** ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3&logoColor=white) - 5%
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqueahmed1&layout=compact&theme=dark)
 
-> Feel free to explore my projects to see these languages in action! 🚀
+---
+
+## 🌐 Connect with Me
+
+Feel free to reach out through any of the platforms below!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/MdAbuBakarSiddique)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_USERNAME)
+[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
+
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SiddiqueAhmed1)  
