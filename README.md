@@ -1,6 +1,6 @@
-## 🌟 My Most Used Languages
+## 🌟 My Most Used Tools
 
-Here are my most frequently used programming languages and libraries:
+
 
 <div style="text-align: center;">
     <a href="https://reactjs.org/" target="_blank">
@@ -67,7 +67,6 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 
 
 
-### Skills: REACT JS | Next JS | Node JS |  MongoDB | Express JS | Sass | Bootstrap5 | Git | Github  
 
 - 🔭 I’m currently working on Fiverr, Upwork 
 - 💬 Ask me about Web problems, Scope, Requirement anything you want related to Web development or Software.
@@ -77,9 +76,8 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 
 ## 🌟 My Most Used Languages
 
-
--  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) - 50%
--  ![JSX](https://img.shields.io/badge/-JSX-61dafb?style=flat&logo=react&logoColor=white) - 30%
+-  ![JSX](https://img.shields.io/badge/-JSX-61dafb?style=flat&logo=react&logoColor=white) - 50%
+-  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) - 30%
 -  ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat&logo=sass&logoColor=white) - 15%
 -  ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3&logoColor=white) - 5%
 
@@ -110,6 +108,8 @@ Feel free to reach out through any of the platforms below!
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px 15px;"/>
     </a>
 </div>
+
+
 
 
 
