@@ -4,79 +4,79 @@ Here are my most frequently used programming languages and libraries:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #61dafb; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black" alt="React" width="40px"/>
+<a href="https://reactjs.org/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #61dafb; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black" alt="React" width="50px"/>
     </div>
 </a>
-<a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #764ABC; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" width="40px"/>
+<a href="https://redux.js.org/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #764ABC; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" width="50px"/>
     </div>
 </a>
-<a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #339933; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" alt="Node" width="40px"/>
+<a href="https://nodejs.org/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #339933; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" alt="Node" width="50px"/>
     </div>
 </a>
-<a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #47A248; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="40px"/>
+<a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #47A248; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="50px"/>
     </div>
 </a>
-<a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #000000; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" width="40px"/>
+<a href="https://expressjs.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #000000; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" width="50px"/>
     </div>
 </a>
-<a href="https://github.com/expressjs/multer" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #ffb700; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Multer-ffb700?style=flat&logo=express&logoColor=white" alt="Multer" width="40px"/>
+<a href="https://github.com/expressjs/multer" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #ffb700; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Multer-ffb700?style=flat&logo=express&logoColor=white" alt="Multer" width="50px"/>
     </div>
 </a>
-<a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #563D7C; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="40px"/>
+<a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #563D7C; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="50px"/>
     </div>
 </a>
-<a href="https://www.w3.org/TR/html52/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #E34F26; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="40px"/>
+<a href="https://www.w3.org/TR/html52/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #E34F26; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="50px"/>
     </div>
 </a>
-<a href="https://sass-lang.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #CC6699; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS" width="40px"/>
+<a href="https://sass-lang.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #CC6699; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS" width="50px"/>
     </div>
 </a>
-<a href="https://www.javascript.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #F7DF1E; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="40px"/>
+<a href="https://www.javascript.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #F7DF1E; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="50px"/>
     </div>
 </a>
-<a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #000000; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Next-000000?style=flat&logo=next.js&logoColor=white" alt="Next" width="40px"/>
+<a href="https://nextjs.org/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #000000; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Next-000000?style=flat&logo=next.js&logoColor=white" alt="Next" width="50px"/>
     </div>
 </a>
-<a href="https://nodemailer.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #4C4C4C; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Nodemailer-4C4C4C?style=flat&logo=npm&logoColor=white" alt="Nodemailer" width="40px"/>
+<a href="https://nodemailer.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #4C4C4C; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Nodemailer-4C4C4C?style=flat&logo=npm&logoColor=white" alt="Nodemailer" width="50px"/>
     </div>
 </a>
-<a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #CB3837; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" width="40px"/>
+<a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #CB3837; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" width="50px"/>
     </div>
 </a>
-<a href="https://yarnpkg.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #2C8EBB; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn" width="40px"/>
+<a href="https://yarnpkg.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #2C8EBB; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn" width="50px"/>
     </div>
 </a>
-<a href="https://sweetalert.js.org/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #FFB0B0; padding: 15px; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.shields.io/badge/-SweetAlert-FFB0B0?style=flat&logo=sweetalert&logoColor=black" alt="SweetAlert" width="40px"/>
+<a href="https://sweetalert.js.org/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #FFB0B0; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/-SweetAlert-FFB0B0?style=flat&logo=sweetalert&logoColor=black" alt="SweetAlert" width="50px"/>
     </div>
 </a>
 
@@ -126,28 +126,28 @@ Feel free to reach out through any of the platforms below!
 
 <div style="display: flex; gap: 20px; justify-content: center;">
 
-<a href="https://github.com/MdAbuBakarSiddique" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #333333; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+<a href="https://github.com/MdAbuBakarSiddique" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #333333; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" width="50px"/>
     </div>
 </a>
-<a href="https://www.facebook.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #3B5998; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+<a href="https://www.facebook.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #3B5998; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
         <img src="https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=facebook&logoColor=white" alt="Facebook" width="50px"/>
     </div>
 </a>
-<a href="https://www.instagram.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #E1306C; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+<a href="https://www.instagram.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #E1306C; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
         <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="50px"/>
     </div>
 </a>
-<a href="https://twitter.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #1DA1F2; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+<a href="https://twitter.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #1DA1F2; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="50px"/>
     </div>
 </a>
-<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
-    <div style="border-radius: 50%; background-color: #0A66C2; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; margin: 10px;">
+    <div style="background-color: #0A66C2; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="50px"/>
     </div>
 </a>
