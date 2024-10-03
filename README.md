@@ -13,7 +13,37 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 #### Where you find me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SiddiqueAhmed1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ab.siddique.73157)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/siddique_ahmed21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siddique_ahmed1)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddiqueAhmed1)](https://github.com/anuraghazra/github-readme-stats)
+## 🌟 My Most Used Languages
+
+I love working with these programming languages:
+
+<table>
+  <tr>
+    <th style="text-align: left;">Language</th>
+    <th style="text-align: right;">Percentage</th>
+  </tr>
+  <tr>
+    <td style="color: #f7df1e;">JavaScript</td>
+    <td style="text-align: right;">40%</td>
+  </tr>
+  <tr>
+    <td style="color: #61dafb;">JSX</td>
+    <td style="text-align: right;">40%</td>
+  </tr>
+  <tr>
+    <td style="color: #cc6699;">SCSS</td>
+    <td style="text-align: right;">15%</td>
+  </tr>
+  <tr>
+    <td style="color: #264de4;">CSS</td>
+    <td style="text-align: right;">5%</td>
+  </tr>
+</table>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqueahmed1&layout=compact&theme=dark)
+
+> Feel free to explore my projects to see these languages in action! 🚀
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SiddiqueAhmed1)  
 
