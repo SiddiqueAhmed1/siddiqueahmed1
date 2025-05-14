@@ -78,8 +78,7 @@ I am a dedicated MERN Stack Developer with a deep passion for coding and over 2 
 
 ## 🌟 My Most Used Languages
 
--  ![JSX](https://img.shields.io/badge/-JSX-61dafb?style=flat&logo=react&logoColor=white) - 50%
--  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) - 30%
+-  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) - 80%
 -  ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat&logo=sass&logoColor=white) - 15%
 -  ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3&logoColor=white) - 5%
 
