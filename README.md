@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Md. Abu Bakar Siddique</h1>
+<h1 align="center">Assalamualaikum 👋, I'm Md. Abu Bakar Siddique</h1>
 <h3 align="center">🚀 A passionate MERN Stack Web Developer from Dhaka, Bangladesh</h3>
 
 ---
 
 ## 🧑‍💻 About Me
  
-- 🌱 I’m always learning **new technologies & design principles**  
-- 💬 Ask me about **React, Node.js, MongoDB, and clean backend APIs**  
-- 📧 Reach me at: [developersiddique123@gmail.com](mailto:developersiddique123@gmail.com)  
-- 🌍 Based in: **Dhaka, Bangladesh**
+ 🌱 I’m always learning **new technologies & design principles**  
+ 💬 Ask me about **React, Node.js, MongoDB, and clean backend APIs**  
+ 📧 Reach me at: [developersiddique123@gmail.com](mailto:developersiddique123@gmail.com)  
+ 🌍 Based in: **Dhaka, Bangladesh**
 
 ---
 
@@ -47,15 +47,28 @@
 
 ## 📦 Tools & Collaboration
 
-- 🧩 Version Control: `Git`, `GitHub`
-- 📢 Communication: `Slack`
-- 📋 Task Management: `Trello`
-- 🧪 Testing: `Postman`, `Thunder Client`
-- 💻 Code Editor: `VS Code`
+ 🧩 Version Control: `Git`, `GitHub`
+ 📢 Communication: `Slack`
+ 📋 Task Management: `Trello`
+ 🧪 Testing: `Postman`, `Thunder Client`
+ 💻 Code Editor: `VS Code`
 
 ---
 
-   ![GitHub streak stats](https://streak-stats.demolab.com/?user=SiddiqueAhmed1)
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SiddiqueAhmed1&theme=tokyonight&hide_border=true&fire=DD2727&ring=4C8EDA&currStreakLabel=DD2727" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddiqueAhmed1&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4C8EDA&title_color=DD2727" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddiqueAhmed1&layout=compact&theme=tokyonight&hide_border=true&title_color=DD2727" alt="Top Languages" />
+</p>
+
 
 ---
 
@@ -63,5 +76,5 @@
 
 <p align="center">
   <a href="mailto:developersiddique123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/md-abu-bakar-siddique"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/md-abu-bakar-siddique](https://www.linkedin.com/in/md-abu-bakar-siddique-ab568923a)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
