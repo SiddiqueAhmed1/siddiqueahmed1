@@ -55,12 +55,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developersiddique123&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developersiddique123&layout=compact&theme=tokyonight" alt="langs" height="150"/>
-</p>
+   ![GitHub streak stats](https://streak-stats.demolab.com/?user=SiddiqueAhmed1)
 
 ---
 
