@@ -49,7 +49,7 @@
 
  🧩 Version Control: `Git`, `GitHub`
  📢 Communication: `Slack`
- 📋 Task Management: `Trello`
+ 📋 Task Management: `ClickUp`, `Trello`, `Jira`
  🧪 Testing: `Postman`, `Thunder Client`
  💻 Code Editor: `VS Code`
 
@@ -59,10 +59,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SiddiqueAhmed1&theme=tokyonight&hide_border=true&fire=DD2727&ring=4C8EDA&currStreakLabel=DD2727" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddiqueAhmed1&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4C8EDA&title_color=DD2727" alt="GitHub Stats" />
 </p>
 
 <p align="center">
