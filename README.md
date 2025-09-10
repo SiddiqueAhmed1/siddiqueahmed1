@@ -1,5 +1,6 @@
 <!-- Top Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi,%20I'm%20Md.%20Abu%20Bakar%20Siddique|%0AMERN%20Stack%20Web%20Developer&fontSize=25&color=9112BC&fontAlign=50&fontAlignY=30)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi,%20I'm%20Md.%20Abu%20Bakar%20Siddique%0AMERN%20Stack%20Web%20Developer&fontSize=25&color=FFFCB8&fontAlign=50&fontAlignY=40&animation=wave&gradient=linear)
+
 
 
 
