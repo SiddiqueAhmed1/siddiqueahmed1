@@ -38,8 +38,10 @@
     [GitHub Code](https://github.com/SiddiqueAhmed1/blinkit-ecommerce)
 
 2. **Node.js Product CRUD App** – Node.js + Express.js + MongoDB + EJS  
-   - Product CRUD, Image Upload, Admin & User routes, Nodemailer  
-   - [GitHub Code](https://github.com/SiddiqueAhmed1/nodejs-expressjs-ejs-multerjs-product-crud)
+   - Product CRUD,
+   - Image Upload,
+   - Nodemailer  
+     [GitHub Code](https://github.com/SiddiqueAhmed1/nodejs-expressjs-ejs-multerjs-product-crud)
 
 
 ## 📈 GitHub Stats
