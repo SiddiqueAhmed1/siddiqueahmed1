@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi,%20I'm%20Md.%20Abu%20Bakar%20Siddique%20|%20MERN%20Stack%20Web%20Developer&fontSize=25&color=#ffa502&fontAlign=50&fontAlignY=40&animation=wave&gradient=linear)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi,%20I'm%20Md.%20Abu%20Bakar%20Siddique%20|%20MERN%20Stack%20Web%20Developer&fontSize=25&color=#ffa502&fontAlign=50&fontAlignY=50&animation=wave&gradient=linear)
 
 ## 🧑‍💻 About Me
 - 🌱 Always learning **new technologies & design principles**  
@@ -46,8 +46,15 @@
 
 ## 📈 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqueahmed1&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddiqueAhmed1&layout=compact&theme=tokyonight&hide_border=true&title_color=DD2727" alt="Top Languages" />
 </p>
+
+
+
 
 
 ## ✨ Connect with Me
